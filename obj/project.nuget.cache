@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ut6Zo1kgH2Ms5D+G3/kPfj8U6B+b4eUlyj/gzvr7A60S8sMfcbH3H4zunfE/vPtqoJi8+N3tECBkRrRAPPnY7A==",
+  "success": true,
+  "projectFilePath": "/Users/snehal/Projects/JwtWebApiTutorial/JwtWebApiTutorial.csproj",
+  "expectedPackageFiles": [
+    "/Users/snehal/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.identitymodel.abstractions/6.32.3/microsoft.identitymodel.abstractions.6.32.3.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.32.3/microsoft.identitymodel.jsonwebtokens.6.32.3.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.identitymodel.logging/6.32.3/microsoft.identitymodel.logging.6.32.3.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.identitymodel.tokens/6.32.3/microsoft.identitymodel.tokens.6.32.3.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/system.identitymodel.tokens.jwt/6.32.3/system.identitymodel.tokens.jwt.6.32.3.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/snehal/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
